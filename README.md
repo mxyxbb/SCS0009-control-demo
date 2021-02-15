@@ -1,9 +1,9 @@
 # SCS0009-control-demo
 STM32F407VET6 | HAL | SCS0009
 
-Successfully porting FeeTech SCS MDK to STM32 
+Successfully porting FeeTech SCS SDK to STM32 
 
-the MDK include the following functions:
+the SDK include the following functions:
 
 ```c
 extern int genWrite(uint8_t ID, uint8_t MemAddr, uint8_t *nDat, uint8_t nLen);//普通写指令
