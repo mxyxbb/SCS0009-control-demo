@@ -3,6 +3,8 @@ STM32F407VET6 | HAL | SCS0009
 
 Successfully porting FeeTech SCS SDK to STM32 
 
+SDK：https://gitee.com/ftservo/SCServoSDK
+
 the SDK include the following functions:
 
 ```c
